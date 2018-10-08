@@ -16,7 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/bin/qvrservice:system/bin/qvrservice \
-    vendor/oneplus/oneplus6/proprietary/bin/dpmd:system/bin/dpmd \
+    vendor/oneplus/sdm845-common/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/oneplus/sdm845-common/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/oneplus/sdm845-common/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
     vendor/oneplus/sdm845-common/proprietary/etc/bluetooth/bt_profile.conf:system/etc/bluetooth/bt_profile.conf \
